@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+
+
+
+h1{
+font-weight: bold;
+text-align: center;
+}
+
+h3{
+  margin: 50px 0 50px 0;
+  font-weight: bold;
+    text-align: center;
+}
+
+span{
+  color:  red;
+}
+
+.tytle{
+  font-weight: bold;
+  margin:0 50px 0 50px;
+
+}
+.flex{
+  display: flex;
+}
+
+.example{
+  opacity: 0.5;
+  font-size: small;
+  margin-left: 170px;
+}
+
+.form-group{
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.btn-container{
+  text-align: center;
+}
+.btn{
+  display: inline-block;
+  color: white;
+  background-color: black;
+  font-size: 20px;
+  width: 80px;
+}
